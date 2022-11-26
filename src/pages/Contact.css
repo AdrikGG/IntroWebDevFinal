@@ -1,0 +1,51 @@
+.contact-content {
+  margin: 0;
+  margin-top: 20px;
+}
+
+.form {
+  margin: auto;
+  padding-bottom: 20px;
+  width: 600px;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: 1rem 4rem;
+}
+
+.label {
+  margin: 10px 0;
+  font-size: large;
+  font-weight: 500;
+}
+
+.input {
+  height: 2rem;
+}
+
+.textarea {
+  height: 4rem;
+}
+
+.contact-buttons {
+  margin: 0 3rem;
+  text-align: right;
+  font-size: large;
+}
+
+.contact-btn {
+  margin: 0 1rem;
+  padding: 0 8px;
+  height: 2rem;
+  border-radius: 4px;
+  color: var(--ebony);
+  background-color: whitesmoke;
+}
+
+/* .submit {
+} */

@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=SLfhMt5OUPI&ab_channel=WebDevSimplified
 
+https://stackoverflow.com/questions/37887589/sticky-header-and-footer-scrollable-content
+
 ## Available Scripts
 
 In the project directory, you can run:
