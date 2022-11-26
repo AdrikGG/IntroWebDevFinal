@@ -4,13 +4,15 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 import Projects from './pages/Projects';
 import Work from './pages/Work';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="app">
+      <Header />
       <div className="container">
         <div className="content">
-          <div>hello world</div>
           <Routes>
             <Route exact path="/" element={<About />} />
             <Route exact path="/work" element={<Work />} />
@@ -19,6 +21,7 @@ function App() {
           </Routes>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

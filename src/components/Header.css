@@ -1,0 +1,46 @@
+.btn {
+  color: black;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-bottom: auto;
+  padding-bottom: 3px;
+}
+
+.active {
+  background-color: lightgrey;
+}
+
+.title {
+  grid-area: title;
+  margin: 0;
+  padding-top: 2px;
+}
+
+.about {
+  grid-area: about;
+}
+
+.work {
+  grid-area: work;
+}
+
+.projects {
+  grid-area: projects;
+}
+
+.contact {
+  grid-area: contact;
+}
+
+.header {
+  display: grid;
+  height: 6rem;
+  font-size: calc(10px + 2vmin);
+  padding: 0px 10px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas:
+    'title title title title'
+    'about work projects contact';
+  column-gap: 4px;
+}
