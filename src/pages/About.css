@@ -1,0 +1,20 @@
+.about-content {
+  margin: 1rem;
+  padding: 1px 20px 20px 20px;
+  border-radius: 6px;
+}
+
+.about-header {
+  margin: 10px auto;
+}
+
+.experience,
+.hobbies {
+  margin-bottom: 4px;
+}
+
+.paragraph {
+  margin: 0;
+  text-align: left;
+  text-indent: 40px;
+}

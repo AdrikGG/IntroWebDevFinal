@@ -7,7 +7,7 @@
 }
 
 .active {
-  background-color: lightgrey;
+  background-color: darkgrey;
 }
 
 .title {
@@ -33,6 +33,7 @@
 }
 
 .header {
+  background-color: pink;
   display: grid;
   height: 6rem;
   font-size: calc(10px + 2vmin);

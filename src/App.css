@@ -1,1 +1,16 @@
+.app {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
 
+.container {
+  overflow: hidden;
+}
+
+.content {
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: calc(100vh - 8rem);
+  padding: 0vh 4vw;
+}
