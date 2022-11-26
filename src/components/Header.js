@@ -8,8 +8,8 @@ const Header = () => {
       <CustomLink className="btn about" to="/">
         About
       </CustomLink>
-      <CustomLink className="btn work" to="/work">
-        Work
+      <CustomLink className="btn work" to="/resume">
+        Resume
       </CustomLink>
       <CustomLink className="btn projects" to="/projects">
         Projects

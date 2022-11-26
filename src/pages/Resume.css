@@ -1,0 +1,43 @@
+.resume-content {
+  margin: 0;
+  margin-top: 20px;
+  border: 1px solid var(--ebony);
+  background-color: var(--white);
+}
+
+.section {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.section-header {
+  margin-bottom: 10px;
+  padding: 4px 0;
+  text-align: center;
+  background-color: lightgray;
+}
+
+.span-group {
+  margin-left: 20px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.resume-p {
+  margin: 0;
+  margin-left: 20px;
+}
+
+.resume-ul {
+  margin: 6px 0;
+}
+
+.resume-li {
+  margin: 0;
+}
+
+.list-text {
+  margin: 0;
+}

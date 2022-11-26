@@ -1,3 +1,7 @@
+## App References and Resources
+
+https://www.youtube.com/watch?v=SLfhMt5OUPI&ab_channel=WebDevSimplified
+
 ## Available Scripts
 
 In the project directory, you can run:
