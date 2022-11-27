@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IntroWebDevFinal/static/css/main.b1ae8542.css",
+    "main.js": "/IntroWebDevFinal/static/js/main.7dfcc8a9.js",
+    "static/media/SwampManDrawing.png": "/IntroWebDevFinal/static/media/SwampManDrawing.7bef624ddf26f6b3927d.png",
+    "index.html": "/IntroWebDevFinal/index.html",
+    "main.b1ae8542.css.map": "/IntroWebDevFinal/static/css/main.b1ae8542.css.map",
+    "main.7dfcc8a9.js.map": "/IntroWebDevFinal/static/js/main.7dfcc8a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1ae8542.css",
+    "static/js/main.7dfcc8a9.js"
+  ]
+}
