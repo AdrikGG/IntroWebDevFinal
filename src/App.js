@@ -6,6 +6,7 @@ import Projects from './pages/Projects';
 import Resume from './pages/Resume';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import NotFound from './pages/NotFound';
 
 function App() {
   return (
@@ -14,10 +15,19 @@ function App() {
       <main className="container">
         <div className="content">
           <Routes>
-            <Route exact path="/" element={<About />} />
-            <Route exact path="/resume" element={<Resume />} />
-            <Route exact path="/projects" element={<Projects />} />
-            <Route exact path="/contact" element={<Contact />} />
+            <Route exact path="/IntroWebDevFinal/" element={<About />} />
+            <Route exact path="/IntroWebDevFinal/resume" element={<Resume />} />
+            <Route
+              exact
+              path="/IntroWebDevFinal/projects"
+              element={<Projects />}
+            />
+            <Route
+              exact
+              path="/IntroWebDevFinal/contact"
+              element={<Contact />}
+            />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </div>
       </main>
