@@ -1,0 +1,36 @@
+.projects-content {
+  margin: 20px 0;
+  padding: 4px 20px 20px 20px;
+  border-radius: 6px;
+  background-color: white;
+}
+
+.projects-hearer {
+  margin: 0;
+}
+
+.project {
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: left;
+  border-radius: 6px;
+}
+
+.project-header {
+  margin-top: 0;
+  text-align: center;
+}
+
+.description {
+  text-indent: 20px;
+}
+
+.tech {
+  margin: 10px 0 0 0;
+  text-indent: 0;
+}
+
+.link {
+  margin-top: 1rem;
+  text-align: center;
+}
