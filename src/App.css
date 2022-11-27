@@ -1,3 +1,11 @@
+:root {
+  --white: #ffffff;
+  --ebony: #0e050f;
+  --darkblue: #170b3b;
+  --indigo: #341948;
+  --lavender: #f4f1ff;
+}
+
 .app {
   text-align: center;
   display: flex;
@@ -5,7 +13,8 @@
 }
 
 .container {
-  background-color: whitesmoke;
+  background-color: var(--lavender);
+  /* background-color: whitesmoke; */
   overflow: hidden;
 }
 

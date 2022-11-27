@@ -1,13 +1,14 @@
 .btn {
-  color: black;
+  color: var(--white);
   text-decoration: none;
+  border: 1px solid var(--white);
   border-radius: 4px;
   margin-bottom: auto;
   padding-bottom: 3px;
 }
 
 .active {
-  background-color: lightcoral;
+  background-color: var(--darkblue);
 }
 
 .title {
@@ -33,10 +34,11 @@
 }
 
 .header {
-  background-color: pink;
   display: grid;
   height: 6rem;
+  background-color: var(--indigo);
   font-size: calc(10px + 2vmin);
+  color: var(--white);
   padding: 0px 10px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;

@@ -1,6 +1,7 @@
 .footer {
   height: 2rem;
-  background-color: pink;
+  background-color: var(--indigo);
+  color: white;
 }
 
 .footer-content {

@@ -1,8 +1,9 @@
 .about-content {
   margin: 1rem;
   padding: 1px 20px 20px 20px;
+  border: 1px solid var(--ebony);
   border-radius: 6px;
-  background-color: white;
+  background-color: var(--white);
 }
 
 .about-header {
