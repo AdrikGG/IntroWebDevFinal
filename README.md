@@ -2,6 +2,16 @@
 
 This repository's code is deployed at https://adrikgg.github.io/IntroWebDevFinal/
 
+## To run the code locally
+
+1. Clone the repository
+
+2. Navigate to the app in the console
+
+3. Run `npm i`
+
+4. Then run `npm start`
+
 ## App References and Resources
 
 https://www.youtube.com/watch?v=SLfhMt5OUPI&ab_channel=WebDevSimplified
