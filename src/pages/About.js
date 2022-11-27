@@ -6,6 +6,7 @@ const About = () => {
       <h1 className="about-header">About Adrik Gurganus</h1>
       <figure>
         <img
+          className="portrait"
           src={require('../images/SwampManDrawing.png')}
           alt="Drawn profile of Adrik"
           width="605"
@@ -14,7 +15,7 @@ const About = () => {
         <figcaption>Digital self portrait</figcaption>
       </figure>
       <div>
-        <h3 className="experience">Background and Experience</h3>
+        <h2 className="experience">Background and Experience</h2>
         <p className="paragraph">
           I am Adrik Gurganus (he / him). I'm a Computer Science undergrad in my
           second to last term at PSU. I'm a well rounded programmer with my
@@ -47,7 +48,7 @@ const About = () => {
         </p>
       </div>
       <div>
-        <h3 className="hobbies">Hobbies</h3>
+        <h2 className="hobbies">Hobbies</h2>
         <p className="paragraph">
           I like to listen to folk music from cultures and languages from all
           around the world. My favorites of what I have found as of yet have

@@ -29,7 +29,7 @@ const Projects = () => {
             that, I was only given about two months to research and develop the
             app. Considering all that, I'm very proud of the result.
           </p>
-          <h4 className="tech">Tech:</h4>
+          <h3 className="tech">Tech:</h3>
           <p>JavaScript, MERN stack (Mongodb, Express, React, Node), CSS.</p>
         </div>
         <div className="link">
@@ -63,7 +63,7 @@ const Projects = () => {
             working with them.
           </p>
           <p>This project is currently a work in progress.</p>
-          <h4 className="tech">Tech:</h4>
+          <h3 className="tech">Tech:</h3>
           <p>JavaScript, MERN stack (Mongodb, Express, React, Node), CSS.</p>
         </div>
         <div className="link">
@@ -78,7 +78,7 @@ const Projects = () => {
             A collection of small JavaScript programs highlighting differnt
             aspects of JavaScript and Full Stack development.
           </p>
-          <h4 className="tech">Tech:</h4>
+          <h3 className="tech">Tech:</h3>
           <p>JavaScript, HTML, CSS, Bootstrap, Express, Pug.</p>
         </div>
         <div className="link">
@@ -109,7 +109,7 @@ const Projects = () => {
             builds. I was responsible for a very large portion of the app and
             it's code.
           </p>
-          <h4 className="tech">Tech:</h4>
+          <h3 className="tech">Tech:</h3>
           <p>TypeScript, React Native, Expo.</p>
         </div>
         <div className="link">

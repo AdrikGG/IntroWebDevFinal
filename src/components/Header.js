@@ -3,8 +3,8 @@ import './Header.css';
 
 const Header = () => {
   return (
-    <div className="header">
-      <div className="title">Adrik Gurganus</div>
+    <nav className="header">
+      <header className="title">Adrik Gurganus</header>
       <CustomLink className="btn about" to="/">
         About
       </CustomLink>
@@ -17,7 +17,7 @@ const Header = () => {
       <CustomLink className="btn contact" to="/contact">
         Contact
       </CustomLink>
-    </div>
+    </nav>
   );
 };
 

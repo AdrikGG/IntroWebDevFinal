@@ -6,9 +6,9 @@ const Resume = () => {
       <div className="resume-content">
         <h1>Resume</h1>
         <div className="section">
-          <h3 className="section-header">
+          <h2 className="section-header">
             Software Engineering Knowledge and Skills
-          </h3>
+          </h2>
           <ul className="resume-ul">
             <li className="resume-li">
               <p className="list-text">
@@ -32,7 +32,7 @@ const Resume = () => {
           </ul>
         </div>
         <div className="section">
-          <h3 className="section-header">Education</h3>
+          <h2 className="section-header">Education</h2>
           <p className="resume-p">
             Portland Community College, Portland, Oregon
           </p>
@@ -108,7 +108,7 @@ const Resume = () => {
           </ul>
         </div>
         <div className="section">
-          <h3 className="section-header">Work Experience</h3>
+          <h2 className="section-header">Work Experience</h2>
           <div className="span-group">
             <span className="bold">CS Tutor, </span>
             <span>September 2018 to Present</span>
@@ -137,7 +137,7 @@ const Resume = () => {
           </ul>
         </div>
         <div className="section">
-          <h3 className="section-header">Technology Summary</h3>
+          <h2 className="section-header">Technology Summary</h2>
           <ul className="resume-ul">
             <li className="resume-li">
               <p className="list-text">

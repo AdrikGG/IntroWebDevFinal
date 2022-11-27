@@ -6,7 +6,8 @@
 .form {
   margin: auto;
   padding-bottom: 20px;
-  width: 600px;
+  max-width: 600px;
+  width: 100%;
   border: 2px solid var(--ebony);
   border-radius: 6px;
   background-color: var(--white);

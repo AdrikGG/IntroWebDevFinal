@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="app">
       <Header />
-      <div className="container">
+      <main className="container">
         <div className="content">
           <Routes>
             <Route exact path="/" element={<About />} />
@@ -20,7 +20,7 @@ function App() {
             <Route exact path="/contact" element={<Contact />} />
           </Routes>
         </div>
-      </div>
+      </main>
       <Footer />
     </div>
   );
