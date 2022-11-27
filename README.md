@@ -11,3 +11,7 @@ https://stackoverflow.com/questions/37887589/sticky-header-and-footer-scrollable
 https://www.canva.com/colors/color-palettes/mourning-glory/
 
 https://stackoverflow.com/questions/72254936/how-to-change-the-title-and-icon-in-react-app
+
+https://github.com/gitname/react-gh-pages
+
+https://stackoverflow.com/questions/56400365/github-pages-still-shows-readme-after-deploying-react-app
